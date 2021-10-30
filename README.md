@@ -5,7 +5,7 @@
 </p>
 
 <p align="left">
-  🦄 Languages: <strong>HTML, CSS3, JavaScript, C, C#, Python</strong>
+  🦄 Languages: <strong>JavaScript, C, C#, Python</strong>
 </p>
 
 <p align="left">
