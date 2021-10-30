@@ -5,11 +5,11 @@
 </p>
 
 <p align="left">
-  🦄 Linguagens: <strong>HTML, CSS3, JavaScript, C, C#, Python</strong>
+  🦄 Languages: <strong>HTML, CSS3, JavaScript, C, C#, Python</strong>
 </p>
 
 <p align="left">
-  💼 Ferramentas: <strong>Visual Studio Code, Github</strong>
+  💼 Tools: <strong>Visual Studio Code, Github</strong>
 </p>
 
 <p align="left">
